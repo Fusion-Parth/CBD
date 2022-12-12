@@ -1,0 +1,22 @@
+POST /cbdwalletapi/WalletLimitManagement/1/UpdateLimitList HTTP/1.1
+Host: www.cbd.ae
+Cookie: TS01e77a00=017f48f75ee6fd0ad5ed74c0bcba6307f44888f8578015d0f0764d384a3deed559ed65a71a59dc66029a3375bd04a78a987b1f10c2; mandrake=!2XbPwLelIpaau0EFG+3N/uW5AFQSARxhRJNXqDigeAnPpDdOPVxdNM2I4g1I32IUCOwuCgkX/y7KZQ==
+Content-Length: 320
+Sec-Ch-Ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer 7900007d-5c41-314b-b545-a2db5c5532bc
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json
+Authorizationid: 6d1445ec-e189-4545-8bfa-883ddd0945be-13674e4c-f7a3-4d29-afe9-388da32450a4
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.cbd.ae
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cbd.ae/cbdwallet/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+
+{"ExternalHeaderRequest":{"ClientRef":"801a491f-0681-458c-bfb9-2f160531696f-772b0d69-ad45-43cf-bae7-4a28dc51a9c0"},"CreatedBy":"testco06","Request":{"ChannelCode":"TC","MerchantCode":"noqod99","SubMerchantCode":"","UserId":"itgrc1","CustomerId":"CBD1000","LimitAmount":1,"UpdatedBy":"testco06","LimitId":1,"IsActive":1}}
